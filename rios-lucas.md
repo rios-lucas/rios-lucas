@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div align="center" height="30" width="40"; "inline_block"><br>
+<div align="center" height="30" width="40"><br> "inline_block"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
