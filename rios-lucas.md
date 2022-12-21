@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <div height="42" width="42"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="42">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
